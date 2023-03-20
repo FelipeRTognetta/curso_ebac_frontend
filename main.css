@@ -56,14 +56,27 @@ section h2 {
 #sports {
     background-color: rgba(72, 151, 72, 0.2);
 }
+#sports .articles article a {
+    background-color: rgba(72, 151, 72, 0.5);
+}
 
 #economy {
     background-color: rgba(255, 236, 126, 0.2);
+}
+#economy .articles article a {
+    background-color: rgba(129, 120, 67, 0.5);
 }
 
 #enterten {
     background-color: rgba(255, 84, 84, 0.2);
 }
+#enterten .articles article a{
+    background-color: rgba(255, 84, 84, 0.5);
+}
+
 #tec {
     background-color: rgba(74, 74, 255, 0.2);
+}
+#tec .articles article a {
+    background-color: rgba(74, 74, 255, 0.5);
 }
