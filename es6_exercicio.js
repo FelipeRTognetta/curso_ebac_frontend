@@ -17,12 +17,6 @@ const students = [
     },
 ]
 
-// const pass = students.map(function(itemAtual) {
-//     return {
-//         nome: itemAtual,
-//     }
-// })
-
 const pass = students.filter(n => n.nota >= 6);
 
 console.log(pass);
